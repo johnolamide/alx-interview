@@ -13,7 +13,7 @@ def pascal_triangle(n):
 
     triangle = [[1]]
 
-    for i in range (1, n):
+    for i in range(1, n):
         row = [1]
         last_row = triangle[-1]
         row += [sum(pair) for pair in zip(last_row, last_row[1:])]
