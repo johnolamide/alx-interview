@@ -2,4 +2,4 @@
 
 ## Task 0
 
-- [ ] `0-minoperations.py`
+- [x] `0-minoperations.py`
