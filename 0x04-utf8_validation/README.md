@@ -2,4 +2,4 @@
 
 ## Task 0
 
-- [ ] `0-validate_utf8.py`
+- [x] `0-validate_utf8.py`
