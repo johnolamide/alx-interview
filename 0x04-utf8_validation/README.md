@@ -1,0 +1,5 @@
+# 0x04 UTF8 Validation
+
+## Task 0
+
+- [ ] `0-validate_utf8.py`
