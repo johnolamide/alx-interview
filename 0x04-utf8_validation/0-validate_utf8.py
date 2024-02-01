@@ -21,10 +21,10 @@ def validUTF8(data):
             elif (num >> 3) == 0b11110:
                 count = 3
             elif (num >> 7):
-                return False
+                return (False)
         else:
             if (num >> 6) != 0b10:
-                return False
+                return (False)
             count -= 1
 
-    return count == 0
+    return (count == 0)
