@@ -2,4 +2,4 @@
 
 ## Task 0
 
-- [ ] `0-nqueens.py`
+- [x] `0-nqueens.py`
