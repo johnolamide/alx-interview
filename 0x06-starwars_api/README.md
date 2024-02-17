@@ -2,4 +2,4 @@
 
 ## Task 0
 
-- [ ] `0-starwars_characters.js`
+- [x] `0-starwars_characters.js`
