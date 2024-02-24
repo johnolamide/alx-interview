@@ -2,4 +2,4 @@
 
 ## Task 0
 
-- [ ] `0-rotate_2d_matrix.py`
+- [x] `0-rotate_2d_matrix.py`
