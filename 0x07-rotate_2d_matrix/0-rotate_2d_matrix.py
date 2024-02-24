@@ -5,7 +5,7 @@ Rotate 2D Matrix
 
 
 def rotate_2d_matrix(matrix):
-    """ Rotate a 2D matrix 
+    """ Rotate a 2D matrix
         Args:
             matrix(list): 2d matrix to rotate
     """
